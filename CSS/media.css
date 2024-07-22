@@ -1,0 +1,70 @@
+@media (max-width: 600px) {
+    .header{
+        background-color: #ADD9E6;
+        color: #0001FA;
+        font-size: 24px;
+        padding: 12px;
+        text-align: center;
+        clear: both;
+    }
+
+    .menu {
+        display: none;
+        float: none;
+        width: 0;
+        vertical-align: bottom;
+    }
+
+    .page {
+        text-align: center;
+        margin-left: 20px;
+    }
+
+    .image {
+        float: none;
+    }
+
+    img {
+        width: 100%;
+        border: solid 5px rgb(133, 145, 220);
+        box-shadow: rgba(0, 0, 255, 0.205) 10px 10px;
+        border-radius: 30px;
+    }
+
+    .conteiner {
+        background: none;
+    }
+
+    .ul1 li {
+        list-style: none;
+        float: left;
+        padding: 5px;
+    }
+
+    .ul1 {
+        text-align: center;
+    }
+    
+    .menu_2 {
+        text-align: center;
+        background: pink;
+        display: block;
+    }
+
+    .menu_name_2 {
+        padding: 10px;
+        background: rgb(255, 255, 128);
+    }
+
+    .ul2 li{
+        list-style: none;
+        display: inline-block;
+        line-height: 30px;
+        text-decoration: none;
+    }
+
+    .ul2{
+        padding: 10px;
+    }
+
+}
