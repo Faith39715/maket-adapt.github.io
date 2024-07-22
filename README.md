@@ -1,0 +1,1 @@
+# maket-adapt.github.io
